@@ -11,9 +11,9 @@ const addFloatingButton = () => {
   
         // İkonu image olarak ekleyelim
         const icon = document.createElement('img');
-        icon.src = 'https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/popup-link-icon.png'; // URL'den ikon yükle
-        icon.style.width = '24px';
-        icon.style.height = '24px';
+        icon.src = 'https://raw.githubusercontent.com/firatkaanbitmez/floating-video-player-extension/main/src/icons/icon128.png'; // URL'den ikon yükle
+        icon.style.width = '32px';
+        icon.style.height = '32px';
         icon.style.display = 'block';
   
         // Butona ikonu ekle
